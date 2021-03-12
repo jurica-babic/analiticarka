@@ -219,8 +219,8 @@ def update_graph(filter, filter_userid, filter_name, groupby_option):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
-    #app.run_server()
+    #app.run_server(debug=True)
+    app.run_server()
 
 
 
